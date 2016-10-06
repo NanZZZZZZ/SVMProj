@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="smv.lovearthstudio.com.svmproj.fragment.SensorFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="#555555"
+        android:text="Let's Predict!!"
+        android:fontFamily="casual"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp">
+
+        <Button
+            android:id="@+id/btn_open_sensor"
+            style="@style/SvmBtnStyle"
+            android:background="#11000000"
+            android:text="打开传感器"
+             />
+
+        <Button
+            android:id="@+id/btn_close_sensor"
+            style="@style/SvmBtnStyle"
+            android:background="#11000000"
+            android:text="关闭传感器"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_sensor_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"/>
+    
+
+    
+</LinearLayout>
