@@ -1,6 +1,6 @@
 # TrainSVM 
 
-![logo](https://github.com/NanZZZZZZ/SVMProj/blob/master/app/src/main/res/mipmap-hdpi/lightbg.jpg)
+![logo](https://github.com/NanZZZZZZ/SVMProj/blob/master/app/src/main/res/mipmap-hdpi/runicon.png)
 
 ### 这是一款使用SVM进行步态分析的小软件
 

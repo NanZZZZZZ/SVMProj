@@ -69,7 +69,7 @@
         android:id="@+id/et_file_info"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="输入名字,先别输入。"
+        android:hint="wait a minute"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"/>
 
