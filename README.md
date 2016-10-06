@@ -1,8 +1,9 @@
-# TrainSVM
+# TrainSVM 
+
+![logo](https://github.com/NanZZZZZZ/SVMProj/blob/master/app/src/main/res/mipmap-hdpi/lightbg.jpg)
 
 ### 这是一款使用SVM进行步态分析的小软件
 
-##### 欢迎界面
 ![logo](https://github.com/NanZZZZZZ/SVMProj/blob/master/app/src/main/res/mipmap-hdpi/lightbg.jpg)
 
 ##### 程序主要功能
